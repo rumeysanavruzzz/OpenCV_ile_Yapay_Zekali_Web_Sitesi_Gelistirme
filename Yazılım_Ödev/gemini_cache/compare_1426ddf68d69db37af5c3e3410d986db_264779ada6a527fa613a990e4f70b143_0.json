@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "result": {
+    "recommended": {
+      "id": "2",
+      "name": "Mercedes C200",
+      "reasons": [
+        "Mercedes C200, şehir içi sürüşlerde daha fazla konfor ve rahatlık sunar.",
+        "Yol bozukluklarını daha iyi emer, daha yumuşak bir sürüş deneyimi sağlar.",
+        "Lüks iç mekanı şehir içi trafiğinde daha keyifli bir ortam yaratır."
+      ],
+      "price": 3550000.0
+    },
+    "alternative": {
+      "id": "1",
+      "name": "BMW 3 Serisi",
+      "reasons": [
+        "BMW 3 Serisi, şehir içinde daha çevik ve dinamik bir sürüş deneyimi sunar.",
+        "Hızlı tepki veren motoru sayesinde şehir trafiğinde kolayca manevra yapabilirsiniz.",
+        "Sportif sürüş karakteri şehir içi kullanımda da keyifli olabilir."
+      ],
+      "price": 3850000.0
+    }
+  },
+  "user_preference": "Şehir içi"
+}
